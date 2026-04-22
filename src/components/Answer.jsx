@@ -1,3 +1,4 @@
+// 渲染ai回答
 import { useEffect, useState } from "react"
 import { checkHeading, replaceHeadingStars } from "../helper"
 const Answer = ({ ans, totalresult, index, type }) => {
